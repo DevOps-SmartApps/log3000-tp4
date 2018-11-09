@@ -1,2 +1,16 @@
-# log3000-tp4
-source code for TP4 Log3000
+# Docker example
+
+This is a small client-server application used for educational purpose.
+
+## Install
+
+Build the images
+
+```bash
+docker-compose build
+```
+
+Run the services
+```bash
+docker-compose up
+```
